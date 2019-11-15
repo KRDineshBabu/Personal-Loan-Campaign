@@ -32,6 +32,5 @@ Project Approach:
         
     - Ensemble method
     
-    
 Conclusion
 
