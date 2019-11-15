@@ -1,4 +1,4 @@
-setwd ("C:\\Users\\DineshBabu\\Dropbox\\Great Learning\\Machine learning\\Week 4")
+setwd ("----------------------------")
 
 loan_dataset <- read.csv("Personal Loan Campaign-dataset.csv", header = TRUE)
 
