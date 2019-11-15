@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  word_document: default
----
 # Personal Loan Campaign
 Project Objective: 
 The data was collected from a personal loams campaign executed by MyBank. Total of 20,000 customers were targets with an offer of personal loans at 10% interested rate. The customers responded for the personal loan are labelled as target = 1 and remaining are labeled as target =0.   
